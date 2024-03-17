@@ -1,16 +1,16 @@
-# clean_air
+# CLEAN AIR
 
-A new Flutter project.
+Air Quality and Weather Checking Flutter Application.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Clean Air is a simple and intuitive app that allows users to check the air quality and weather 
+forecast at the location of their choice. With a user-friendly interface, you can quickly get 
+information on weather conditions anywhere in the world.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+**Air Quality Check**: The app provides up-to-date air quality data, such as pollution levels, PM2.5 
+and PM10 concentrations, and other indicators relevant to public health.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Weather Forecasts**: Learn about the weather forecasts for the coming days in the selected location. 
+See temperature, humidity, wind speed and other relevant information.
